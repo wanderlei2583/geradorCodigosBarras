@@ -1,4 +1,5 @@
 python-barcode
+pyinstaller
 setuptools
 pillow
 reportlab
